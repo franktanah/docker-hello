@@ -1,3 +1,3 @@
 cd /tmp
-echo "Hello World!<hr>Running on $(hostname)" > index.html
+echo "Fintech Example!<hr>Running on $(hostname)" > index.html
 python -m SimpleHTTPServer 8080
